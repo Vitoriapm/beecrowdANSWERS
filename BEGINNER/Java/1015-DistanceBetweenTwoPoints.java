@@ -5,8 +5,8 @@ public class Main {
  
     public static void main(String[] args) throws IOException {
  
-      Scanner sc = new Scanner(System.in);
-		  double x1, y1, x2, y2;
+      	Scanner sc = new Scanner(System.in);
+		double x1, y1, x2, y2;
 		
   		x1 = sc.nextDouble();	
   		y1 = sc.nextDouble();	
