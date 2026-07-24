@@ -18,9 +18,9 @@ public class Main {
   			    Math.pow(y2 - y1, 2)
 			);
 
-			System.out.printf("%.4f%n", distance);
+		System.out.printf("%.4f%n", distance);
 			
-			sc.close();
+		sc.close();	
     }
 
 }
